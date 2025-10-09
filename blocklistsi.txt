@@ -9,4 +9,4 @@ reddit.com##.nd-visible.pt-\[var\(--page-y-padding\)\].overflow-visible
 reddit.com##.theme-beta.z-\[4\].fixed.right-0.left-0.top-0.nd\:visible
 reddit.com##.theme-beta.z-\[4\].fixed.right-0.left-0.top-0.nd\:visible > .nd\:visible.contents
 reddit.com##.px-md.border-neutral-border.border-b.border-0.border-solid.pointer-events-auto.bg-neutral-background.v2
-reddit.com##.items-center.flex.h-header-large
+
